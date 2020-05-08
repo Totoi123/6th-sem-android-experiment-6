@@ -1,2 +1,7 @@
 # 6th-sem-android-experiment-6
-Image changing app using spinner
+
+Understand resource folders :
+
+i. Create spinner with strings taken from resource folder.
+
+ii. On changing spinner value, change image
